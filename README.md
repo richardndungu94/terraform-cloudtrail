@@ -56,11 +56,11 @@ Just like security cameras in a building:
 
 **Now you can answer:**
 
-- ✅ Who: john.doe@company.com
-- ✅ When: 2024-01-15 at 14:32:15
-- ✅ What: Deleted prod-db-001
-- ✅ Where from: IP in Russia (suspicious!)
-- ✅ What else: Also modified firewall and stopped servers
+- Who: john.doe@company.com
+- When: 2024-01-15 at 14:32:15
+- What: Deleted prod-db-001
+- Where from: IP in Russia (suspicious!)
+- What else: Also modified firewall and stopped servers
 
 ---
 
