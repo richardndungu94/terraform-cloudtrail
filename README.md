@@ -4,7 +4,7 @@ A simple guide to understanding AWS CloudTrail and why every company needs it.
 
 ---
 
-## 🚨 The Problem
+## The Problem
 
 ### Real-World Scenario
 
@@ -21,11 +21,11 @@ Boss: "This is a $500,000 problem. We need answers NOW."
 
 **Without CloudTrail, you're blind.** You have:
 
-- ❌ No idea who made the change
-- ❌ No idea when it happened
-- ❌ No idea what else they might have done
-- ❌ No way to prove it wasn't you
-- ❌ No evidence for legal/compliance teams
+- No idea who made the change
+- No idea when it happened
+- No idea what else they might have done
+- No way to prove it wasn't you
+- No evidence for legal/compliance teams
 
 This happens **every day** at companies worldwide.
 
@@ -95,7 +95,7 @@ Just like security cameras in a building:
 | **ISO 27001** | Must log security-relevant events |
 
 **Without CloudTrail:** Fail audit → Lose customers → Lose certifications  
-**With CloudTrail:** ✅ Pass audit → Win enterprise customers → Get certified
+**With CloudTrail:**  Pass audit → Win enterprise customers → Get certified
 
 ### 3. Troubleshooting
 
@@ -168,7 +168,7 @@ Because of CloudTrail:
  - Showed regulators they had proper controls
  - No fines, no lawsuits, no headlines
 
-
+```
 
 
 ### Technical Skills
@@ -227,12 +227,12 @@ Because of CloudTrail:
 
 ### The Simple Version
 
-```
+
 1. Creates an S3 bucket (encrypted storage)
 2. Enables CloudTrail (the recorder)
 3. Points CloudTrail at the bucket
 4. Every API call gets logged automatically
-```
+
 
 **That's it.** Now you have a complete audit trail.
 
@@ -346,6 +346,7 @@ Exported logs showing:
 - All from company IPs
 - MFA required for all access
 
+```
 
  Success Criteria
 
@@ -381,7 +382,7 @@ Implemented enterprise-grade audit logging using AWS CloudTrail to:
 
 **Technologies:** Terraform, AWS CloudTrail, S3, IAM
 **Impact:** 95% reduction in incident investigation time
-```
+
 
 ---
 
