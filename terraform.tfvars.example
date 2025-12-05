@@ -1,0 +1,10 @@
+# Copy this to terraform.tfvars
+
+aws_region         = "eu-north-1"
+project_name       = "cloudtrail-demo"
+environment        = "dev"
+log_retention_days = 365  # 1 year (compliance requirement)
+
+# Set to true if you want real-time log analysis
+# (costs extra for CloudWatch Logs)
+enable_cloudwatch_logs = false
