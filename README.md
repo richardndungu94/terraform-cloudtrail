@@ -423,3 +423,21 @@ After completing this project, you'll be able to:
    - Investigate incidents
    - Generate compliance reports
 
+
+## Apendix
+
+**IMAGES**
+
+AWS Logs
+
+![Alt text](/images/cloudtrail1.png)
+
+
+
+![Alt text](/images/cloudtrail2.png)
+
+
+
+
+
+
